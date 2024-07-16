@@ -1,12 +1,15 @@
-<h1 align="center">>whoami</h1>
+<div style="font-size: 1.5em;">
+<pre><code>❯ whoami
+mohamed</code></pre>
+</div>
 
-### Mohamed E
+## About me
 
-## About me 
 - DevOps Engineer
 - Paris, France
 
 ## Technologies
+
 - Languages: Python, TypeScript, HTML/CSS, bash
 - Linux: RHEL, Debian, Arch
 - DevOps: Github Actions, Ansible, Terraform, Prometheus, Grafana
